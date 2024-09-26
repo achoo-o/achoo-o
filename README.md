@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Amy!
 
-<!--
-**achoo-o/achoo-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I’m currently wrapping up [pawpals](https://pawpals.pushed.nz/)
+- 🌱 I’m reading 'A Common Sense Guide To Data Structures And Algorithms' by Jay Wengrow and learning more about p5.js
 
-Here are some ideas to get you started:
+## Familiar with
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,html,js,linux,tailwind,p5js,vitest" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,githubactions,sass,py,vite,npm,docker,figma,codepen,notion"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Looking to learn these
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,ruby,nodejs,astro,nextjs" />
+  </a>
+</p>
+</p>
