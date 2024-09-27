@@ -1,7 +1,16 @@
 # Hey, I'm Amy!
-Check out my [portfolio](https://achoo-o.github.io/)!
-- 💻 I’m currently wrapping up [pawpals](https://pawpals.pushed.nz/)
-- 🌱 I’m reading 'A Common Sense Guide To Data Structures And Algorithms' by Jay Wengrow and learning more about p5.js
+
+I'm a full stack web developer. You can check out [my portfolio here](https://achoo-o.github.io/).  
+
+#### What am I up to?
+
+- I’m currently wrapping up [pawpals](https://pawpals.pushed.nz/) 🐾  
+  Worked on over a 5-day period as part of a group for our final project.
+  
+- Deepening my knowledge 🌱  
+  I’m reading 'A Common Sense Guide To Data Structures And Algorithms' by Jay Wengrow
+
+Thanks for visiting my profile.
 
 ## Familiar with
 <p align="left">
