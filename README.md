@@ -1,5 +1,5 @@
 # Hey, I'm Amy!
-
+Check out my [portfolio](https://achoo-o.github.io/)!
 - 💻 I’m currently wrapping up [pawpals](https://pawpals.pushed.nz/)
 - 🌱 I’m reading 'A Common Sense Guide To Data Structures And Algorithms' by Jay Wengrow and learning more about p5.js
 
