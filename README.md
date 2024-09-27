@@ -9,11 +9,6 @@ Check out my [portfolio](https://achoo-o.github.io/)!
     <img src="https://skillicons.dev/icons?i=react,ts,html,js,linux,tailwind,p5js,vitest" />
   </a>
 </p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,githubactions,sass,py,vite,npm,docker,figma,codepen,notion"/>
-  </a>
-</p>
 
 ## Looking to learn these
 <p align="left">
