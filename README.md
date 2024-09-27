@@ -15,7 +15,7 @@ Thanks for visiting my profile.
 ## Familiar with
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,html,js,linux,tailwind,p5js,vitest" />
+    <img src="https://skillicons.dev/icons?i=react,ts,html,js,linux,tailwind,p5js,vitest,git" />
   </a>
 </p>
 
