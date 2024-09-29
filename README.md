@@ -22,7 +22,7 @@ Thanks for visiting my profile.
 ## Looking to learn these
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,ruby,nodejs,astro,nextjs" />
+    <img src="https://skillicons.dev/icons?i=cs,ruby,nodejs,astro,nextjs,go" />
   </a>
 </p>
 </p>
