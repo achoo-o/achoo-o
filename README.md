@@ -13,16 +13,20 @@ I'm a full stack web developer. You can check out [my portfolio here](https://ac
 Thanks for visiting my profile.
 
 ## Familiar with
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,html,js,linux,tailwind,p5js,vitest,git" />
-  </a>
-</p>
+![React Logo](https://skillicons.dev/icons?i=react "React")
+![Typescript Logo](https://skillicons.dev/icons?i=ts "Typescript")
+![HTML Logo](https://skillicons.dev/icons?i=html "HTML")
+![Javascript Logo](https://skillicons.dev/icons?i=js "Javascript")
+![Linux Logo](https://skillicons.dev/icons?i=linux "Linux")
+![Tailwind Logo](https://skillicons.dev/icons?i=tailwind "Tailwind")
+![p5 Logo](https://skillicons.dev/icons?i=p5js "p5")
+![Vitest Logo](https://skillicons.dev/icons?i=vitest "Vitest")
+![Git Logo](https://skillicons.dev/icons?i=git "Git")
 
 ## Looking to learn these
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,ruby,go,cs,nodejs,nextjs" />
-  </a>
-</p>
-</p>
+![Astro Logo](https://skillicons.dev/icons?i=astro "Astro")
+![Ruby Logo](https://skillicons.dev/icons?i=ruby "Ruby")
+![Go Logo](https://skillicons.dev/icons?i=go "Go")
+![C Sharp Logo](https://skillicons.dev/icons?i=cs "C#")
+![Node.js Logo](https://skillicons.dev/icons?i=nodejs "Node.js")
+![Next.js Logo](https://skillicons.dev/icons?i=nextjs "Next.js")
