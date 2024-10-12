@@ -4,13 +4,12 @@ I'm a full stack web developer. You can check out [my portfolio here](https://ac
 
 #### What am I up to?
 
-- I'm currently working on a new Astro project! 🚀
+- I'm currently working on a new Astro project for a client! 🚀
 
-- I’m helping with [pawpals](https://pawpals.pushed.nz/) 🐾  
-  Worked on over a 5-day period as part of a group for our final project.
+- Working through The Odin Project's [Ruby course](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) 🎓
   
 - Deepening my knowledge 🌱  
-  I’m reading 'A Common Sense Guide To Data Structures And Algorithms' by Jay Wengrow
+  I’m reading 'A Common Sense Guide To Data Structures And Algorithms' by Jay Wengrow.
 
 Thanks for visiting my profile.
 
