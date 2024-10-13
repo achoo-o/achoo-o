@@ -28,6 +28,7 @@ Thanks for visiting my profile.
 [![Astro Logo](https://skillicons.dev/icons?i=astro "Astro")](https://skillicons.dev/)
 [![Ruby Logo](https://skillicons.dev/icons?i=ruby "Ruby")](https://skillicons.dev/)
 [![Go Logo](https://skillicons.dev/icons?i=go "Go")](https://skillicons.dev/)
+[![Vue.js Logo](https://skillicons.dev/icons?i=vue "Vue.js")](https://skillicons.dev/)
 [![C Sharp Logo](https://skillicons.dev/icons?i=cs "C#")](https://skillicons.dev/)
 [![Node.js Logo](https://skillicons.dev/icons?i=nodejs "Node.js")](https://skillicons.dev/)
 [![Next.js Logo](https://skillicons.dev/icons?i=nextjs "Next.js")](https://skillicons.dev/)
