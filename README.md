@@ -4,8 +4,6 @@ I'm a full stack web developer. You can check out [my portfolio here](https://ac
 
 #### What am I up to?
 
-- I'm currently working on a new Astro project for a client! 🚀
-
 - Working through The Odin Project's [Ruby course](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) 🎓
   
 - Deepening my knowledge 🌱  
@@ -23,10 +21,10 @@ Thanks for visiting my profile.
 [![p5 Logo](https://skillicons.dev/icons?i=p5js "p5")](https://skillicons.dev/)
 [![Vitest Logo](https://skillicons.dev/icons?i=vitest "Vitest")](https://skillicons.dev/)
 [![Git Logo](https://skillicons.dev/icons?i=git "Git")](https://skillicons.dev/)
-
-## Looking to learn these
 [![Astro Logo](https://skillicons.dev/icons?i=astro "Astro")](https://skillicons.dev/)
 [![Ruby Logo](https://skillicons.dev/icons?i=ruby "Ruby")](https://skillicons.dev/)
+
+## Looking to learn these
 [![Go Logo](https://skillicons.dev/icons?i=go "Go")](https://skillicons.dev/)
 [![Vue.js Logo](https://skillicons.dev/icons?i=vue "Vue.js")](https://skillicons.dev/)
 [![C Sharp Logo](https://skillicons.dev/icons?i=cs "C#")](https://skillicons.dev/)
