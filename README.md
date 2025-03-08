@@ -1,17 +1,3 @@
-# Hey, I'm Amy!
-
-I'm a full stack web developer. You can check out [my portfolio here](https://achoo-o.github.io/).  
-
-#### What am I up to?
-
-- Working through The Odin Project's [Ruby course](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) 🎓
-  
-- Deepening my knowledge 🌱  
-  I’m reading 'A Common Sense Guide To Data Structures And Algorithms' by Jay Wengrow.
-
-Thanks for visiting my profile.
-
-## Familiar with
 [![React Logo](https://skillicons.dev/icons?i=react "React")](https://skillicons.dev/)
 [![Typescript Logo](https://skillicons.dev/icons?i=ts "Typescript")](https://skillicons.dev/)
 [![HTML Logo](https://skillicons.dev/icons?i=html "HTML")](https://skillicons.dev/)
@@ -23,10 +9,3 @@ Thanks for visiting my profile.
 [![Git Logo](https://skillicons.dev/icons?i=git "Git")](https://skillicons.dev/)
 [![Astro Logo](https://skillicons.dev/icons?i=astro "Astro")](https://skillicons.dev/)
 [![Ruby Logo](https://skillicons.dev/icons?i=ruby "Ruby")](https://skillicons.dev/)
-
-## Looking to learn these
-[![Go Logo](https://skillicons.dev/icons?i=go "Go")](https://skillicons.dev/)
-[![Vue.js Logo](https://skillicons.dev/icons?i=vue "Vue.js")](https://skillicons.dev/)
-[![C Sharp Logo](https://skillicons.dev/icons?i=cs "C#")](https://skillicons.dev/)
-[![Node.js Logo](https://skillicons.dev/icons?i=nodejs "Node.js")](https://skillicons.dev/)
-[![Next.js Logo](https://skillicons.dev/icons?i=nextjs "Next.js")](https://skillicons.dev/)
